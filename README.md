@@ -1,2 +1,5 @@
 # git-fit
-repo to work with git automation
+
+repo to experience:
+git worktree
+git automation
